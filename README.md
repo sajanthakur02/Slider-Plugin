@@ -4,9 +4,10 @@ Create a short code
 
 inside of custom-slider.php
 
-
-
 #slider Code
+
+
+
 function slider() {
 	$sliderValue = get_option('custom_slider_1');
 	$slides = explode(',', $sliderValue); ?>
