@@ -3,6 +3,9 @@ I created a slider without install plugin. I created a own plugin and do some cu
 Create a short code
 
 inside of custom-slider.php
+
+
+
 #slider Code
 function slider() {
 	$sliderValue = get_option('custom_slider_1');
